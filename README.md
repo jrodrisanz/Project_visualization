@@ -15,4 +15,4 @@ En la carpeta 'visualization' encontrarás los gráficos resultantes del anális
 
 Este proyecto ha sido una oportunidad para explorar y analizar datos de películas, y representar los resultados de manera visual e interesante. Espero que disfrutes revisando el código y los gráficos, y que puedas aprender algo nuevo sobre el mundo del cine. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. ¡Gracias por revisar mi proyecto!
 
-[![Captura-de-pantalla-2023-05-14-194252.png](https://i.postimg.cc/wxt2KjRT/Captura-de-pantalla-2023-05-14-194252.png)](https://postimg.cc/YjHYYkxJ)
+[![visualization-demo.png](https://i.postimg.cc/Wzxnnvhs/visualization-demo.png)](https://postimg.cc/SY7CSH6P)
