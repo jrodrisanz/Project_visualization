@@ -7,7 +7,18 @@
 
 La intención de este proyecto es analizar toda la información relacionada con estas plataformas para tratar de averiguar de forma objetiva cuál de ellas ofrece mejor contenido.
 
-Algunos de los resultados que se pueden encontrar en este análisis son: cuáles los países con mayor producción de películas y series, cuál es el género más popular, cuántas películas han sido producidas por año o el promedio de votos por género. Además, se utilizaron técnicas de visualización de datos para presentar los resultados de manera clara y concisa.
+Algunos de los resultados que se pueden encontrar en este análisis son: 
+
+1. Cuáles los países con mayor producción de películas y series.
+
+2. Cuáles son los géneros que más aparecen en ambas plataformas
+
+3. Cómo valoran los espectadores cada género.
+
+4. Cuántas películas han sido producidas por año.
+
+5. Buscador de información detallada por película
+
 
 
 
